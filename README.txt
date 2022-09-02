@@ -1,0 +1,5 @@
+Fala Galerous da tecno, beleza?
+
+Então esse foi um projeto de basicamente 3 dias de execução, esse projeto foi feito por Guilherme Couto e Brenno Florêncio. Tinhamos desistido do pojeto por adversidades nossas, mas pedimos uma segunda oportunidade a igor e ele nos deu. Bem fizemos nosso melhor, tivemos e estamos com alguns problemas no responsivo do site, infelizmente não conseguimos resolver, talvez se a gente tivesse começado quando foi proposto com o conhecimento que temos agora teria saido algo bem mais legal, mas foi oque conseguimos no tempo dado, iremos continuar a estudar principalmente essa questao de mediaQuery e javascript para podermos avançar, espero que gostem do resultado, esse foi nosso melhor no tempo proposto, se não for dessa vez quando tiver um próximo PROSEL a gente já chega com um projeto pronto kkk, valeu galera, TMJ!!!!
+
+Ass.Guilherme Almeida e Brenno Florêncio.

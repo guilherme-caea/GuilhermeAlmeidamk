@@ -1,0 +1,49 @@
+:root{
+  --fontepadrao: 'Poppins';
+  --corfonte: #ffffff;
+  --corfontesecundaria: #FF5A00;
+  --fundoprimario: url(/img/fundolaranja.jpg);
+  --fundosecundario: url(/img/fundocinza.jpg);
+}
+
+@font-face {
+  font-family: 'icones';
+  src: url(/font/icones.ttf);
+}
+
+
+body{
+  font-family: 'icones', var(--fontepadrao);
+  margin-top: 113px;
+  
+}
+
+html{
+  scroll-padding-top: 113px;
+  scroll-behavior: smooth;
+}
+  
+
+.botao{
+  border: solid 3px #FC6414;
+  padding: 15px 100px;
+  border-radius: 15px;
+  /* background-color: #FC6414; */
+}
+
+@media screen and (max-width:980px){
+  .container{
+    padding-left: 6%;                                             ;
+    padding-right: 6%;
+    padding-bottom: 25px;
+  }
+  
+}
+
+@media screen and (min-width: 981px){
+  .container {
+    padding-bottom: 25px;
+    padding-left: calc((100% - 1000px)/2);
+    padding-right: calc((100% - 1000px)/2);
+  }
+}

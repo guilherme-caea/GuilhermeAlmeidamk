@@ -1,0 +1,15 @@
+.investimento{
+  padding: 10px;
+  background-image: var(--fundoprimario);
+}
+
+.investimento__texto{
+  border: solid 3px #444444;
+  background-color: #444444;
+  border-radius: 33px;
+  color: var(--corfonte);
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 5px;
+  padding: 5px;
+}

@@ -1,0 +1,39 @@
+.estrategia{
+  background-image: var(--fundosecundario);
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+.estrategia__img{
+  /* background-image: url(/img/pt2.png);
+  background-size: 100px;
+  background-repeat: no-repeat;
+  position: relative;
+  position: ; */
+align-self: left;
+width: 500px;
+}
+.estrategia__texto{
+  padding-top: 85px;
+}
+
+.estrategia__subtitulo{
+  text-align: end;
+  color:var(--corfonte) ;
+  font-size: 18px;
+}
+
+.estrategia__titulo{
+  text-align: center;
+  color:var(--corfonte) ;
+  font-size: 60px;
+  font-weight: bold;
+  padding: 16px 0;
+}
+
+.estrategia__paragrafo{
+  text-align: end;
+  color:var(--corfonte) ;
+  font-size: 14px;
+}

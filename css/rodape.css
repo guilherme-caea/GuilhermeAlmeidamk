@@ -1,0 +1,51 @@
+.rodape{
+  background-image: var(--fundosecundario) ;
+}
+
+
+.rodape__icones{
+  display: flex;
+  flex-direction: column;
+}
+
+.rodape__link{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  color: var(--corfonte);
+  font-weight: bold;
+  max-width: 250px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.contatos{
+  display: flex;
+  flex: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.rodape__img{
+  max-width: 40px;
+}
+
+.rodape__contato{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.rodape__input{
+  margin-bottom: 5px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.rodape__texto-input{
+  margin-bottom: 5px;
+  color: var(--corfonte) ;
+}
+.input{
+  width: 150px;
+}
